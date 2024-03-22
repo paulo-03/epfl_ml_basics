@@ -1,6 +1,4 @@
-# Project 1: Regression - Predicting Heart Disease from Personal Lifestyle Factors
-
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/U9FTc9i_)
+# Regression - Predicting Heart Disease from Personal Lifestyle Factors
 
 This repository contains our work in predicting heart disease in adults based on personal lifestyle metrics and factors. We have employed three primary machine learning algorithms to classify whether an individual is healthy or not. These models include (Ridge) Least Square, Least Square (Stochastic) Gradient Descent, and (Ridge) Logistic Regression. To provide a baseline comparison, a Random Guess algorithm is also included.
 
@@ -35,7 +33,3 @@ The entire project is implemented using basic libraries. While the core computat
 List of libraries used:
 - `numpy`
 - `matplotlib`
-
-## Results
-
-You can find our best submission to AI crowd [here](https://www.aicrowd.com/challenges/epfl-machine-learning-project-1/teams/DLP).

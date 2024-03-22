@@ -1,0 +1,11 @@
+dataset/*.csv
+dataset/Projet1_Dataset_Features_explanation.pdf
+features.txt
+output
+.idea/
+q
+*.ipynb
+!run.ipynb
+output.csv
+__pycache__/*
+src/__pycache__/*
